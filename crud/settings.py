@@ -36,6 +36,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'port-0-deploy-practice-17xqnr2algn95l6h.sel3.cloudtype.app',
+    'localhost',
 ]
 
 
